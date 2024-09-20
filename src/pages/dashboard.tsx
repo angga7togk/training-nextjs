@@ -5,7 +5,7 @@ const dashboard = () => {
   return (
     <>
       <Head>
-        <title>Dashboard</title>
+        <title>Dashboard Development</title>
       </Head>
       <div>dashboard</div>
     </>
